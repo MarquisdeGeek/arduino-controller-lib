@@ -1,0 +1,12 @@
+{
+  "name": "arduino-controller",
+  "version": "1.0.2",
+  "description": "Control your Arduino, and review its state, through NodeJS",
+  "keywords":"arduino,socketio",
+  "main": "arduino-controller.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Steven Goodwin",
+  "license": "ISC"
+}
